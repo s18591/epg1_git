@@ -1,0 +1,8 @@
+1.git clone https://github.com/s18591/epg1_git.git
+2.git branch hw-s18591
+3.git checkout -b rebase-me origin/rebase-me
+4.git rebase hw-s18591
+5.git checkout hw-s18591
+6.git merge rebase-me
+7.git merge origin/merge-me
+8.git add README.md
